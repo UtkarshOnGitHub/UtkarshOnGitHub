@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<h2>I am a highly competent Full Stack Web Developer who is graduated from Masai School. I have strong technical skills as well as excellent interpersonal skills, enabling 
+me to interact  with a wide range of clients. I am eager to obtain a challenging position at a prestigious company that will expand my learning and build upon my developer skills.</h2>
+
+
 - 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 Check my PortFolio [https://utkarshongithub.github.io/UtkarshPortFolio/](https://utkarshongithub.github.io/UtkarshPortFolio/)
@@ -15,9 +19,39 @@
 
 -  💬 My Solo Project With React JS - ASOS Clone- Fashion Demands Variety   [Check Here](https://asos-lake.vercel.app/)
 
+- 💬  Ask Me About - React JS , JAVASCRIPT , CSS , MONGODB
+
 - 📫 How to reach me **famedustevershine@gmail.com**
 
 - ⚡ Fun fact **Iam A Music Producer**
+
+
+<hr/>
+
+<h1>Projects</h1>
+
+
+<h3>ASOS Clone:</h3>
+
+<h4>ASOS Is A Shopping Website Where We Have Variety Of Brands With Details</h4>
+
+<h4>Tech Stack: REACT JS , CHAKRA UI , NETLIFY</h4>
+
+Click Here To Check My Project: [Check Here](https://asos-lake.vercel.app/)
+
+<hr/>
+
+
+<h3>MODESENES Clone:</h3>
+
+<h4>ModeSens is your fashion shopping assistant dedicated to saving you time and money. </h4>
+
+<h4>Tech Stack: HTML , CSS , JAVASCRipt , NETLIFY</h4>
+
+Click Here To Check My Project: [Link is Here](https://sadhakvishu.github.io/Slytherin/)
+
+
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
