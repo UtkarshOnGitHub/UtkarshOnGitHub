@@ -7,8 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h2>I am a highly competent Full Stack Web Developer who is graduated from Masai School. I have strong technical skills as well as excellent interpersonal skills, enabling 
-me to interact  with a wide range of clients. I am eager to obtain a challenging position at a prestigious company that will expand my learning and build upon my developer skills.</h2>
+<h2>Self Motivated Full-Stack web developer
+with hands on experience in developing
+scalabe websites using a wide range of
+frontend and backend skills.Eager to obtain
+a challenging position at a prestigious
+company that will expand my learning and
+built upon my developer skills.</h2>
 
 
 - 🌱 I’m currently learning **React JS**
