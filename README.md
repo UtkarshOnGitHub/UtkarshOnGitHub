@@ -9,7 +9,7 @@
 
 <h2>Self Motivated Full-Stack web developer
 with hands on experience in developing
-scalabe websites using a wide range of
+scalable websites using a wide range of
 frontend and backend skills.Eager to obtain
 a challenging position at a prestigious
 company that will expand my learning and
