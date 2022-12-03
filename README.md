@@ -1,4 +1,4 @@
-[![MasterHead]([https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/api.gif](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif))
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <h3 align="center">Knack Of Building application with front and backend operations.</h3>
 <img align="right" alt="Coding" width="400"  src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47kjjhwo55qhdb3rhwg7crztgskyab5btt4tq1gygx&rid=giphy.gif&ct=g"/>
